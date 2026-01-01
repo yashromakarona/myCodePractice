@@ -15,6 +15,9 @@ else:
     c[0] += (total_min // 60)
     c[1] = (total_min % 60)
     
+if c[0] >= 24:
+    c[0] = c[0] % 24
+    
 print(c[0],c[1])
- 
+
     
