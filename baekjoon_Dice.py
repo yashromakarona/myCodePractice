@@ -15,9 +15,9 @@ elif dice_list[0] != dice_list[1] != dice_list[2]:
 else:   
     if dice_list[0] == dice_list[1] != dice_list[2]:
         print(1000 + dice_list[1] * 100)
+        
     elif dice_list[0] != dice_list[1] == dice_list[2]:
         print(1000 + dice_list[1] * 100)
-    else:
+        
+    elif dice_list[0] == dice_list[2] != dice_list[1]:
         print(1000 + dice_list[2] * 100)
-
-            
