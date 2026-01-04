@@ -11,9 +11,13 @@ if dice_list[0] == dice_list[1] == dice_list[2]:
     
 elif dice_list[0] != dice_list[1] != dice_list[2]:
     print(100 * max(dice_list[0], dice_list[1], dice_list[2]))
+    
 else:   
-    for i in range(1,3):
-        if dice_list(i-1) == dice_list(i) != dice_list(i+1):
-            break
-        print(1000 + dice_list[i] * 100)
-         
+    if dice_list[0] == dice_list[1] != dice_list[2]:
+        print(1000 + dice_list[1] * 100)
+    elif dice_list[0] != dice_list[1] == dice_list[2]:
+        print(1000 + dice_list[1] * 100)
+    else:
+        print(1000 + dice_list[2] * 100)
+
+            
