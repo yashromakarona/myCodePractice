@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/taewoo/myCodePractice/Baekjoon/baekjoon_C1_Strar",
+      "program": "/Users/taewoo/myCodePractice/Baekjoon/baekjoon_C1_Strar/build/Debug/outDebug"
+    }
+  ]
+}
