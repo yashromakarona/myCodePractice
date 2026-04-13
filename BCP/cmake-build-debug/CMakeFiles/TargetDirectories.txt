@@ -1,0 +1,3 @@
+/Users/taewoo/myCodePractice/cmake-build-debug/CMakeFiles/myCodePractice.dir
+/Users/taewoo/myCodePractice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/taewoo/myCodePractice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
