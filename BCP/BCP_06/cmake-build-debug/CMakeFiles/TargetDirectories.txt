@@ -1,0 +1,7 @@
+/Users/taewoo/myCodePractice/BCP/cmake-build-debug/CMakeFiles/BCP.dir
+/Users/taewoo/myCodePractice/BCP/cmake-build-debug/CMakeFiles/BCP2.dir
+/Users/taewoo/myCodePractice/BCP/cmake-build-debug/CMakeFiles/BCP3.dir
+/Users/taewoo/myCodePractice/BCP/cmake-build-debug/CMakeFiles/BCP4.dir
+/Users/taewoo/myCodePractice/BCP/cmake-build-debug/CMakeFiles/BCP5.dir
+/Users/taewoo/myCodePractice/BCP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/taewoo/myCodePractice/BCP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
