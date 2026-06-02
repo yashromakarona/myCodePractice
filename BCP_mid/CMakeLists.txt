@@ -8,3 +8,7 @@ add_executable(Q4 main2.c)
 add_executable(Q5 main3.c)
 add_executable(Q6 main4.c)
 add_executable(Q7 main5.c)
+add_executable(Q9 main7.c)
+add_executable(Q10 main8.c)
+add_executable(Q11 main9.c
+        main10.c)
