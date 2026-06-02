@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 4.1)
+project(BCP_ASS C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(BCP_ASS Q1.c)
+add_executable(2 Q2.c)
+add_executable(3 Q3.c)
+add_executable(4 Q4.c)
+add_executable(5 Q5.c)
+add_executable(6 Q6.c)
+add_executable(7 Q7.c)
+add_executable(8 Q8.c)
+add_executable(9 Q9.c)
+add_executable(10 Q10.c)
